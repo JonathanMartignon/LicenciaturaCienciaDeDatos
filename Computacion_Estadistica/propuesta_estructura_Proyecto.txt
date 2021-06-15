@@ -1,0 +1,18 @@
+### ESTRUCTURA PARA EL REPORTE ###
+
+-Introducción: Breve justificación del proyecto con respecto al curso
+
+-Modelo
+ -Planteamiento del modelo
+
+-Aplicación de modelo a datos
+  -Descripción de los datos
+  -Aplicación del modelo
+  -Resultados
+    -Inferencia de los resultados: CI 95%, media, mediana.
+    -Visualización de las distribuciones a posteriori.
+    -Descripción del ajuste del modelo a los datos.
+    -Discusión relacionada con el material visto en el curso: Si       hacen MCMC, discutir los diagnósticos de convergencia.
+
+-Extra:
+ -Código del modelo/algoritmo
